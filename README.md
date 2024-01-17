@@ -24,3 +24,6 @@ For this project, Linear Regression, Ridge Regression, Lasso regression and Rand
 We have taken Root Mean Squared Error (RMSE) instead of the Mean Squared Error (MSE) when predicting prices since the values of costs tend to be higher, and the RMSE is expressed in the same units as the variable being predicted.
 Upon comparison, it was noted that Ridge Regression outperformed all the other models.
 
+# Setting up & Running the Project:
+Download the R code (Project_v1.R) from this repository and dataset from the Kaggle source. Open the R code file in RStudio and set the working directory in Rstudio to the location of the downloaded dataset. Press Command + Return key to execute each command.
+
